@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>Pods-BoxExample.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-BoxExampleTests.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-BoxExampleUITests.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>box-ios-sdk-BoxContentSDKResources.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>box-ios-sdk.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>234F27142FE11C27C99FD47FE3AAA8D6</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>39B33DA7C74578F8C5B563C72C3FD358</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>5CDCB4FF1859E7F1361C0E14FFCDECCE</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>BD07B397675F4A8D29E5D4DC084FD6CA</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D5AC7F242C7DF93A1999CB3050EE2562</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
